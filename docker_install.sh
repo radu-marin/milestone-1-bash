@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/usr/bin/env bash
 
 # Script that installs docker and checks if it's working on CentOS.
 

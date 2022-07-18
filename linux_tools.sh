@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/usr/bin/env bash
 
 # This is a script that will autoconfig. our local linux machine with necessary tools:
 # curl, wget, telnet, netstat, nslookup 
